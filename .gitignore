@@ -38,3 +38,6 @@ output/
 storage/
 
 .env
+
+# other
+101.pdf
